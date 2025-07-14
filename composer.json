@@ -1,0 +1,10 @@
+{
+    "name": "makbuk/php-env-composer",
+    "authors": [
+        {
+            "name": "sergey-emelyanov",
+            "email": "emelia35@yandex.ru"
+        }
+    ],
+    "require": {}
+}
